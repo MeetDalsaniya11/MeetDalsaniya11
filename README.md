@@ -50,3 +50,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MeetDalsaniya11/MeetDalsaniya11/output/snake.svg" alt="Snake animation" />
+
+###
